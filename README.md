@@ -1,4 +1,4 @@
-# covid-19 data visualization projects
+# covid-19 data Dashboard projects
 
 COVID-19 data visualization projects are essential tools in the ongoing battle against the pandemic. They encompass a wide range of visual techniques, including heatmaps, time-series graphs, and geographic maps, to illustrate the spread of the virus and the effectiveness of containment measures. These projects often feature user-friendly dashboards that allow users to interact with the data, explore trends, and gain insights into the current state of the pandemic.
 
